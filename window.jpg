@@ -1,0 +1,43 @@
+<html lang="en">
+<head>
+  <title>Home</title>
+  <link href='/ESRI.ArcGIS.SDS.REST.css' rel='stylesheet' type='text/css'>
+  <link rel='SHORTCUT ICON' href='/favicon.ico'>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+  <meta name="keywords" content="ArcGIS REST Services Directory Root">
+</head>
+<body>
+<table width="100%" id="userTable" class="userTable">
+<tr>
+<td class="titlecell">ArcGIS REST Services Directory</td>
+</tr>
+</table>
+<table id="navTable" class="navTable" width="100%">
+<tbody>
+<tr valign="top">
+<td class="breadcrumbs">
+<span id="homeBreadcrumbs"><a href="/oNvpY90qsPDizwkN/ArcGIS/rest/services?token=3NKHt6i2urmWtqOuugvr9RacoD-ye334vK3iW0Sw0-2TG1P2grWQmewtiuRYrcI4Q5spgkqcoTMkOdMZdozCjVSlljhrpy9C_fMciUMNhIJlGePp05Y_ow4bSJs3jHh0fB95GLxV47vukDU3r4uDPrXltaOlri_dY7Lhp-bOQYSfITWDpHZsnw5X0cL5GMZ_PDKNoo2AuGY_7sEDT0MiBxXKyEDYJNDg9DeqayW47nb1yDNsuA58D324DINA9nmeevTvmdeZpLRUXRFjKsgSMwBC7FmrxrINtnK1soJ7Rc7jactOoHXOZu7WK-ZvDgC9l76h1HZcZvOo3JE-BA6XAehLtdJv5UUWn02ttxqpxjVEhmAdFR2-jGkLheoUYGnV5sVl5vqMthUeZ1JI62cs2g../window.jpg">Home</a> > <a href="/oNvpY90qsPDizwkN/ArcGIS/rest/services?token=3NKHt6i2urmWtqOuugvr9RacoD-ye334vK3iW0Sw0-2TG1P2grWQmewtiuRYrcI4Q5spgkqcoTMkOdMZdozCjVSlljhrpy9C_fMciUMNhIJlGePp05Y_ow4bSJs3jHh0fB95GLxV47vukDU3r4uDPrXltaOlri_dY7Lhp-bOQYSfITWDpHZsnw5X0cL5GMZ_PDKNoo2AuGY_7sEDT0MiBxXKyEDYJNDg9DeqayW47nb1yDNsuA58D324DINA9nmeevTvmdeZpLRUXRFjKsgSMwBC7FmrxrINtnK1soJ7Rc7jactOoHXOZu7WK-ZvDgC9l76h1HZcZvOo3JE-BA6XAehLtdJv5UUWn02ttxqpxjVEhmAdFR2-jGkLheoUYGnV5sVl5vqMthUeZ1JI62cs2g../window.jpg">services</a> </span></td>
+<td align="right">
+ | <a href="http://resources.arcgis.com/en/help/arcgis-rest-api/" target="_blank">API Reference</a></td>
+</tr>
+</tbody>
+</table>
+<div id="jsonLinkTable">
+<table>
+<tr>
+<td class="apiref">
+<a href="?f=pjson&token=3NKHt6i2urmWtqOuugvr9RacoD-ye334vK3iW0Sw0-2TG1P2grWQmewtiuRYrcI4Q5spgkqcoTMkOdMZdozCjVSlljhrpy9C_fMciUMNhIJlGePp05Y_ow4bSJs3jHh0fB95GLxV47vukDU3r4uDPrXltaOlri_dY7Lhp-bOQYSfITWDpHZsnw5X0cL5GMZ_PDKNoo2AuGY_7sEDT0MiBxXKyEDYJNDg9DeqayW47nb1yDNsuA58D324DINA9nmeevTvmdeZpLRUXRFjKsgSMwBC7FmrxrINtnK1soJ7Rc7jactOoHXOZu7WK-ZvDgC9l76h1HZcZvOo3JE-BA6XAehLtdJv5UUWn02ttxqpxjVEhmAdFR2-jGkLheoUYGnV5sVl5vqMthUeZ1JI62cs2g../window.jpg" target="_blank">JSON</a>
+</td>
+</tr>
+</table>
+</div>
+<div class='restHeader'>
+<h2>Home</h2>
+</div>
+<div class='restBody'>
+<div class="restErrors">
+Invalid token.<br/>
+</div>
+</div>
+</body>
+</html>
